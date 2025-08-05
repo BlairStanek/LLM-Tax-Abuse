@@ -1,0 +1,60 @@
+Subsidiary handling stock compensation (Notice 2000-60)
+
+AUTHORITY 1: I.R.C. § 1032
+§ 1032 Exchange of stock for property.
+(a) Nonrecognition of gain or loss.
+No gain or loss shall be recognized to a corporation on the receipt of money or other property in exchange for stock (including treasury stock) of such corporation….
+
+AUTHORITY 2: Reg §1.83-6
+Reg §1.83-6 Deduction by employer.
+…
+(d) Special rules for transfers by shareholders.
+  (1) Transfers. If a shareholder of a corporation transfers property to an employee of such corporation or to an independent contractor (or to a beneficiary thereof), in consideration of services performed for the corporation, the transaction shall be considered to be a contribution of such property to the capital of such corporation by the shareholder, and immediately thereafter a transfer of such property by the corporation to the employee or independent contractor …
+
+AUTHORITY 3: I.R.C. § 331
+§ 331 Gain or loss to shareholder in corporate liquidations.
+(a) Distributions in complete liquidation treated as exchanges.
+Amounts received by a shareholder in a distribution in complete liquidation of a corporation shall be treated as in full payment in exchange for the stock.
+…
+
+AUTHORITY 4: Background for §331
+Section 331 only applies if the shareholder is not a corporation owning at least 80% of the stock of the liquidating corporation.
+
+AUTHORITY 5: I.R.C. § 83
+§ 83 Property transferred in connection with performance of services.
+…
+(h) Deduction by employer.
+In the case of a transfer of property to which this section applies or a cancellation of a restriction described in subsection (d) , there shall be allowed as a deduction under section 162 , to the person for whom were performed the services in connection with which such property was transferred, an amount equal to the amount included under subsection (a) , (b) , or (d)(2) in the gross income of the person who performed such services. Such deduction shall be allowed for the taxable year of such person in which or with which ends the taxable year in which such amount is included in the gross income of the person who performed such services.
+…
+
+BACKGROUND:
+1) Taxpayer corporation P is a publicly traded company.
+2) P has employees that it will compensate with $99 of its own stock.
+3) P has an existing subsidiary X, with P owning all the stock of X.
+
+GOALS:
+1) P would like to deduct the $99 worth of stock used to compensate employees and would also like for P and X to get a combined $99 capital loss.
+2) Avoid liquidating X.
+
+STRATEGY:
+1) P and X form corporation S, with P contributing $79 cash and X contributing $21 cash.
+2) S uses the $100 to buy stock of P on the stock market.
+3) S uses $99 of the stock to compensate P’s employees.
+4) S liquidates, distributing its $1 in P stock pro rata to P and X.
+
+
+ANALYSIS (the analysis numbering below does NOT correspond to the strategy step numbering above):
+1) After the contribution, P has basis $79 in its S stock and X has basis $21 in its S stock, for a total basis of $100.
+2) When S compensates P's employees with $99 of P stock, since S is a shareholder of P, under §1.83-6, that is treated as a contribution to P, followed by P paying its employees; assuming, as is reasonable, that the $99 of P stock is all gross income to P's employees, this means P gets a deduction of $99.
+3) When S liquidates, under section 331, P and X combined recognize a loss of $99, since their basis in the S stock was a total of $100, but they are receiving just $1 in value.
+
+ADVERSARIAL STRATEGY STEP(S):
+4) P contributes all the stock of X to S in a transaction qualifying under section 351.
+
+PRIMARY TAX-LAW AREA: Employee Benefits
+STRATEGY TYPE: Legal Cleverness
+
+NOTES:
+1) To understand the background to §331, it may be necessary to include §332 and §1504(a)(2)
+2) Basically, P double-deducts the amounts paid to employees, once under §1.83-6 and a second time when liquidating S.
+3) This all hinges on the oddity that S is treated as a shareholder of P under the plain language of Reg. 1.83-6

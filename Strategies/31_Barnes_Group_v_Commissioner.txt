@@ -1,0 +1,130 @@
+Barnes Group v. Commissioner (T.C. Memo. 2013-109); Repatriation strategy involving section 351
+
+AUTHORITY 1: Rev. Rul. 74-503
+Advice has been requested as to the basis of the stock acquired in the transaction described below.
+X corporation transferred shares of its treasury stock (with a fair market value of $3,000x and purchased by X several years previously from its shareholders for $2,000x) to Y in exchange for newly issued shares of Y stock (with a fair market value of $3,000x) which constituted 80 percent of the only outstanding class of stock of Y. The transfer of X stock was not for the purpose of enabling Y to acquire property by the use of such stock. No gain or loss was recognized to X under section 351(a) (and section 1032(a)) of the Internal Revenue Code of 1954. No gain or loss was recognized to Y under section 1032(a).
+Section 358(a) of the Code provides, in part, rules for determining the basis of property received by a transferor in a transaction to which section 351 applies. However, section 358(e) provides that section 358(a) does not apply to property acquired by a corporation by the exchange of its stock as consideration in whole or in part for the transfer of property to it. Therefore, section 358(a) is not applicable in determining the basis of the Y stock received by X in the transaction.
+Section 1.1032-1(d) of the Income Tax Regulations provides:
+(d) For basis of property acquired by a corporation in connection with a transaction to which section 351 applies or in connection with a reorganization, see section 362. For basis of property acquired by a corporation in a transaction to which section 1032 applies but which does not qualify under any other non-recognition provision, see section 1012.
+Section 362(a) of the Code provides, in part, that the basis to a corporation of property acquired in a section 351 transaction will be the same as it would be in the hands of the transferor, increased in the amount of gain recognized to the transferor on such transfer.
+Pursuant to section 1.1032-1(d) of the regulations, the basis of the stock of X received by Y and the basis of the stock of Y received by X will be determined under section 362(a) of the Code since the transaction also qualifies, for purposes of determining basis, under section 351.
+Therefore, the basis of the X treasury stock received by Y will be the same as it was in the hands of X immediately prior to the exchange. In addition, the basis of the newly issued stock of Y received by X will be the same as it was in the hands of Y immediately prior to the exchange.
+The basis of previously unissued stock in the hands of the corporation issuing it in a transaction to which section 362 of the Code applies is zero. However, in order to ascertain the basis of the stock received by Y, a determination must be made as to the basis of the X treasury stock.
+In Firestone Tire & Rubber Company, 2 T.C. 827 (1943), acq., 1945 C.B. 3, withdrawing nonacq., 1944 C.B. 38, the taxpayer-corporation purchased shares of its common stock for cash in the open market and held them as treasury shares. At a later date, it exchanged these shares in a nontaxable reorganization described under the predecessor of section 368(a)(1)(B) of the 1954 Code for all the stock of S corporation. Section 113(a)(7) of the Revenue Act of 1936 (the predecessor of section 362(b) of the 1954 Code) provided that the basis of shares acquired in a reorganization exchange by the transferee for the issuance of its own shares was the same as the transferor's basis of the shares received. The taxpayer-corporation contended that the exchange of its treasury stock for all the stock of S corporation was not an issuance since it had purchased the treasury stock in the open market for cash.
+The Tax Court of the United States in Firestone relied on two interrelated propositions for its decision. The first was the pre-1954 Code rule that a corporation dealing in its shares as it might in the shares of another corporation must recognize gain or loss on the disposition of its treasury stock. The second, as a necessary corollary to the first, was that a corporation has a basis in its treasury stock equal to the amount paid therefor.
+The validity of these propositions was abolished for post-1954 Code years by the enactment of section 1032(a) of the Code, effective with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. Section 1032(a) expressly provides nonrecognition treatment for a corporation upon the disposition of its treasury stock. It was intended to remove the uncertainties under prior law relating to whether a corporation was ‘dealing’ in its own shares, and to eliminate any distinction between treasury stock and previously unissued stock. See H. Rep. No. 1337, 83rd Cong.2d Sess. 268; S. Rep. No. 1622, 83rd Cong.2d Sess., 426. Among the reasons for this provision were the tax avoidance possibilities of the prior law, under which a corporation expecting a gain upon disposition of treasury shares might avoid such gain by cancelling its treasury shares and issuing ‘new’ stock, whereas a corporation might produce a fictitious loss by purchasing its own shares and reselling them at a lower price.
+The enactment of section 317(b) of the Code, which makes it clear that a ‘redemption’ of stock can occur whether such stock is cancelled or held as treasury stock, is further evidence of Congress' intention to eliminate the formalistic distinctions that had existed under pre-1954 Code law with respect to treasury stock. See S. Rep. No. 1622, at page 252.
+Therefore, the Firestone decision is not applicable under the 1954 Code. Thus, under the 1954 Code, a corporation's treasury stock is no different than its previously unissued stock, the purchase of such treasury stock being merely a part of the capital transaction which began when such stock was first issued.
+Accordingly, the basis of the X treasury stock received by Y is zero and the basis of the newly issued Y stock received by X is zero.
+Rev. Rul. 62-217, 1962-2 C.B. 59 (which refers to the ‘cost basis' of treasury stock), Rev. Rul. 70-117, 1970-1 C.B. 30 (which holds that premiums paid by a corporation on life insurance policies used to fund the cost of a stock purchase agreement do not represent ordinary and necessary business expenses of the taxpayer but are in the nature of amounts paid for the acquisition of a corporation asset (treasury stock)), and Rev. Rul. 70-305, 1970-1 C.B. 169 (which holds, in part, that the sale of stock of a parent corporation held by a subsidiary corporation, which was acquired by the subsidiary in a transaction described in section 304(a)(2), can result in a loss), are hereby modified to remove any implication that for tax purposes a corporation's treasury stock held by it has a cost basis rather than a zero basis.
+
+AUTHORITY 2: I.R.C. § 956
+§ 956 Investment of earnings in United States property.
+(a) General rule.
+In the case of any controlled foreign corporation, the amount determined under this section with respect to any United States shareholder for any taxable year is the lesser of—
+  (1) the excess (if any) of—
+    (A) such shareholder's pro rata share of the average of the amounts of United States property held (directly or indirectly) by the controlled foreign corporation as of the close of each quarter of such taxable year, over
+    (B) the amount of earnings and profits described in section 959(c)(1)(A) with respect to such shareholder, or
+  (2) such shareholder's pro rata share of the applicable earnings of such controlled foreign corporation.
+The amount taken into account under paragraph (1) with respect to any property shall be its adjusted basis as determined for purposes of computing earnings and profits, reduced by any liability to which the property is subject.
+…
+(c) United States property defined.
+  (1) In general.
+  For purposes of subsection (a) , the term “United States property” means any property acquired after December 31, 1962, which is—
+    (A) tangible property located in the United States;
+    (B) stock of a domestic corporation;
+    (C) an obligation of a United States person; or
+    (D) any right to the use in the United States of—
+      (i) a patent or copyright,
+      (ii) an invention, model, or design (whether or not patented),
+      (iii) a secret formula or process, or
+      (iv) any other similar property right,
+    which is acquired or developed by the controlled foreign corporation for use in the United States.
+  (2) Exceptions. For purposes of subsection (a), the term “United States property” does not include—
+    (A) obligations of the United States, money, or deposits with … any bank
+…
+
+AUTHORITY 3: I.R.C. § 951
+§ 951 Amounts included in gross income of United States shareholders.
+(a) Amounts included.
+  (1) In general.
+    If a foreign corporation is a controlled foreign corporation at any time during any taxable year, every person who is a United States shareholder (as defined in subsection (b) ) of such corporation and who owns (within the meaning of section 958(a) ) stock in such corporation on the last day, in such year, on which such corporation is a controlled foreign corporation shall include in his gross income, for his taxable year in which or with which such taxable year of the corporation ends—
+      (A) his pro rata share (determined under paragraph (2)) of the corporation's subpart F income for such year, and
+      (B) the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2) ).
+…
+
+AUTHORITY 4: I.R.C. §358
+§ 358 Basis to distributees.
+(a) General rule.
+In the case of an exchange to which section 351 , 354 , 355 , 356 , or 361 applies—
+  (1) Nonrecognition property.
+  The basis of the property permitted to be received under such section without the recognition of gain or loss shall be the same as that of the property exchanged—
+    (A) decreased by—
+      (i) the fair market value of any other property (except money) received by the taxpayer,
+      (ii) the amount of any money received by the taxpayer, and
+      (iii) the amount of loss to the taxpayer which was recognized on such exchange, and
+    (B) increased by—
+      (i) the amount which was treated as a dividend, and
+      (ii) the amount of gain to the taxpayer which was recognized on such exchange (not including any portion of such gain which was treated as a dividend).
+…
+(e) Exception.
+This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
+…
+
+AUTHORITY 5: I.R.C. §351
+§ 351 Transfer to corporation controlled by transferor.
+(a) General rule.  No gain or loss shall be recognized if property is transferred to a corporation by one or more persons solely in exchange for stock in such corporation and immediately after the exchange such person or persons are in control (as defined in section 368(c) ) of the corporation.
+…
+
+AUTHORITY 6: I.R.C. §368
+§368 Definitions relating to corporate reorganizations.
+…
+(c) Control defined.
+For purposes of part I (other than section 304 ), part II, this part, and part V, the term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+
+AUTHORITY 7: I.R.C. § 1032
+§ 1032 Exchange of stock for property.
+(a) Nonrecognition of gain or loss.
+No gain or loss shall be recognized to a corporation on the receipt of money or other property in exchange for stock (including treasury stock) of such corporation….
+
+AUTHORITY 8: Treas. Reg. § 1.1032-1(d)
+§ 1.1032-1 Disposition by a corporation of its own capital stock
+…
+(d) For basis of property acquired by a corporation in connection with a transaction to which section 351 applies or in connection with a reorganization, see section 362. For basis of property acquired by a corporation in a transaction to which section 1032 applies but which does not qualify under any other nonrecognition provision, see section 1012.
+
+AUTHORITY 9: §1012
+§ 1012 Basis of property—cost.
+(a) In general.
+The basis of property shall be the cost of such property, except as otherwise provided in this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
+…
+
+BACKGROUND:
+1) Taxpayer T is a U.S. corporation that owns (and has always owned) all the stock of FSub, which is a foreign corporation and is thus a controlled foreign corporation.
+2) FSub has substantial cash that has been subject to a low tax rate.
+3) The amount of FSub's earnings and profits described in section 959(c)(1)(A) with respect to T is zero.
+4) T's pro rata share of the applicable earnings of FSub are substantial.
+5) No amounts would be excluded from T's gross income under section 959(a)(2).
+
+GOALS:
+1) T wants to receive FSub's cash without including any of the cash in its gross income.
+
+STRATEGY:
+1) T forms DS, a U.S. corporation with all its stock owned by T.
+2) FSub contributes its own stock plus its cash to DS, and, in exchange, DS gives 80% of its stock to FSub.
+3) DS distributes the cash to T.
+
+ANALYSIS (the analysis numbering below does NOT correspond to the strategy step numbering above):
+1) FSub's contribution of its own stock and its cash to DS is covered by section 351.
+2) Under § 358(e), section 358 does not apply at all to determine FSub's basis in the DS stock, which is property acquired by FSub by the exchange of its stock as consideration in part for the transfer of the DS stock to FSub; accordingly the general rule of § 358(a)(1) that FSub's basis should include the basis of the cash contributed does not apply; instead, we apply the holding of Rev. Rul. 74-503 that FSub's basis in the DS stock is zero.
+3) FSub's DS stock is stock of a domestic corporation and thus is United States property for purposes of section 956.
+4) Because FSub's basis in the DS stock is zero, the amount taken into account under section 956 with respect to the DS stock shall be zero.
+5) DS can pay the cash to T tax-free because T and DS are both domestic corporations and T owns all the stock of DS.
+6) T has zero gross income as a result of this strategy.
+
+ADVERSARIAL STRATEGY STEP(S):
+2) FSub contributes its own stock plus its cash to DS, and, in exchange, DS gives 70% of its stock to FSub.
+
+PRIMARY TAX-LAW AREA: International
+STRATEGY TYPE: Legal Cleverness
+
+NOTES:

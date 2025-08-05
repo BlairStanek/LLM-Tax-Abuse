@@ -1,0 +1,48 @@
+Distressed asset trusts (Notice 2008-34)
+
+AUTHORITY 1: I.R.C. § 1015
+§ 1015 Basis of property acquired by gifts and transfers in trust.
+…
+(b) Transfer in trust after December 31, 1920.
+If the property was acquired after December 31, 1920, by a transfer in trust (other than by a transfer in trust by a gift, bequest, or devise), the basis shall be the same as it would be in the hands of the grantor increased in the amount of gain or decreased in the amount of loss recognized to the grantor on such transfer under the law applicable to the year in which the transfer was made.
+…
+
+AUTHORITY 2: I.R.C. § 678
+§ 678 Person other than grantor treated as substantial owner.
+(a) General rule.
+A person other than the grantor shall be treated as the owner of any portion of a trust with respect to which:
+  (1) such person has a power exercisable solely by himself to vest the corpus or the income therefrom in himself, or
+  (2) such person has previously partially released or otherwise modified such a power and after the release or modification retains such control as would, within the principles of sections 671 to 677 , inclusive, subject a grantor of a trust to treatment as the owner thereof.
+…
+
+AUTHORITY 3: I.R.C. § 671
+§ 671 Trust income, deductions, and credits attributable to grantors and others as substantial owners.
+Where it is specified in this subpart that the grantor or another person shall be treated as the owner of any portion of a trust, there shall then be included in computing the taxable income and credits of the grantor or the other person those items of income, deductions, and credits against tax of the trust which are attributable to that portion of the trust to the extent that such items would be taken into account under this chapter in computing taxable income or credits against the tax of an individual. Any remaining portion of the trust shall be subject to subparts A through D. No items of a trust shall be included in computing the taxable income and credits of the grantor or of any other person solely on the grounds of his dominion and control over the trust under section 61 (relating to definition of gross income) or any other provision of this title, except as specified in this subpart.
+
+BACKGROUND:
+1) FP is a foreign person who owns an Asset with a built-in loss, with a $100 basis and fair market value of $20.
+
+GOALS:
+1) Have U.S. Taxpayer T recognize a loss of $80.
+2) Leave FP with property rights with the same value as the fair market value of the Asset.
+
+STRATEGY:
+1) FP contributes the Asset to a Trust.
+2) T contributes $20 cash to the Trust.
+3) Trust transfers the Asset to a newly-created Subtrust, with FP left with beneficial rights to the $20 cash, which remains in the Trust.
+4) T is given a power exercisable solely by himself to vest the corpus or the income of Subtrust in himself.
+5) Subtrust sells the Asset to an unrelated third party for $20 cash.
+
+ANALYSIS (the analysis numbering below does NOT correspond to the strategy step numbering above):
+1) When it receives it, Trust has basis $100 in the Asset under § 1015(b).
+2) When it receives it, Subtrust has basis $100 in the Asset under § 1015(b).
+3) Once the Asset is transferred to Subtrust, T is treated as the owner of the Asset under § 678.
+4) The loss on the sale of the Asset should show up on T's tax return under § 671.
+
+ADVERSARIAL STRATEGY STEP(S):
+4) FP is given a power exercisable solely by FP to vest the corpus or the income of Subtrust in FP.
+
+PRIMARY TAX-LAW AREA: Income Tax
+STRATEGY TYPE: Arbitrage Between Taxpayers
+
+NOTES:

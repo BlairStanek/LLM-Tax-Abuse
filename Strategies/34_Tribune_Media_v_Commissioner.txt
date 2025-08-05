@@ -1,0 +1,78 @@
+Tribune Media Co. v. Commissioner (T.C. Memo. 2021-122); partnership disguised sale with bottom-dollar guarantee
+
+
+AUTHORITY 1: Reg. § 1.707-3.
+Reg §1.707-3 Disguised sales of property to partnership; general rules.
+(a) Treatment of transfers as a sale.
+  (1) In general. Except as otherwise provided in this section, if a transfer of property by a partner to a partnership and one or more transfers of money or other consideration by the partnership to that partner are described in paragraph (b)(1) of this section, the transfers are treated as a sale of property, in whole or in part, to the partnership.
+…
+(b) Transfers treated as a sale.
+  (1) In general. A transfer of property (excluding money or an obligation to contribute money) by a partner to a partnership and a transfer of money or other consideration (including the assumption of or the taking subject to a liability) by the partnership to the partner constitute a sale of property, in whole or in part, by the partner to the partnership only if based on all the facts and circumstances—
+    (i) The transfer of money or other consideration would not have been made but for the transfer of property; and
+    (ii) In cases in which the transfers are not made simultaneously, the subsequent transfer is not dependent on the entrepreneurial risks of partnership operations.
+…
+(c) Transfers made within two years presumed to be a sale.
+  (1) In general. For purposes of this section, if within a two-year period a partner transfers property to a partnership and the partnership transfers money or other consideration to the partner (without regard to the order of the transfers), the transfers are presumed to be a sale of the property to the partnership unless the facts and circumstances clearly establish that the transfers do not constitute a sale.
+…
+
+AUTHORITY 2: Reg. § 1.707-5.
+§ 1.707-5. Disguised sales of property to partnership; special rules relating to liabilities.
+(a) Liability assumed or taken subject to by partnership.
+…
+  (2) Partner's share of liability. A partner's share of any liability of the partnership is determined under the following rules:
+    (i) Recourse liability. A partner's share of a recourse liability of the partnership equals the partner's share of the liability under the rules of section 752 and the regulations in this part under section 752. A partnership liability is a recourse liability to the extent that the obligation is a recourse liability under §1.752-1(a)(1) or would be treated as a recourse liability under that section if it were treated as a partnership liability for purposes of that section.
+    (ii) Nonrecourse liability. A partner's share of a nonrecourse liability of the partnership is determined by applying the same percentage used to determine the partner's share of the excess nonrecourse liability under §1.752-3(a)(3). A partnership liability is a nonrecourse liability of the partnership to the extent that the obligation is a nonrecourse liability under §1.752-1(a)(2) or would be a nonrecourse liability of the partnership under §1.752-1(a)(2) if it were treated as a partnership liability for purposes of that section.
+…
+(b) Treatment of debt-financed transfers of consideration by partnerships.
+  (1) In general. For purposes of §1.707-3, if a partner transfers property to a partnership, and the partnership incurs a liability and all or a portion of the proceeds of that liability are allocable under §1.163-8T to a transfer of money or other consideration to the partner made within 90 days of incurring the liability, the transfer of money or other consideration to the partner is taken into account only to the extent that the amount of money or the fair market value of the other consideration transferred exceeds that partner's allocable share of the partnership liability.…
+
+AUTHORITY 3: Reg § 1.752-2
+Reg § 1.752-2. Partner's share of recourse liabilities.
+(a) In general. A partner's share of a recourse partnership liability equals the portion of that liability, if any, for which the partner or related person bears the economic risk of loss. The determination of the extent to which a partner bears the economic risk of loss for a partnership liability is made under the rules in paragraphs (b) through (k) of this section.
+(b) Obligation to make a payment.
+  (1) In general. Except as otherwise provided in this section, a partner bears the economic risk of loss for a partnership liability to the extent that, if the partnership constructively liquidated, the partner or related person would be obligated to make a payment to any person (or a contribution to the partnership) because that liability becomes due and payable and the partner or related person would not be entitled to reimbursement from another partner or person that is a related person to another partner. Upon a constructive liquidation, all of the following events are deemed to occur simultaneously:
+    (i) All of the partnership's liabilities become payable in full;
+    (ii) With the exception of property contributed to secure a partnership liability (see §1.752-2(h)(2)), all of the partnership's assets, including cash, have a value of zero;
+    (iii) The partnership disposes of all of its property in a fully taxable transaction for no consideration (except relief from liabilities for which the creditors' right to repayment is limited solely to one or more assets of the partnership);
+    (iv) All items of income, gain, loss, or deduction are allocated among the partners; and
+    (v) The partnership liquidates.
+…
+
+AUTHORITY 4: Reg §1.163-8T
+§1.163-8T Allocation of interest expense among expenditures (temporary).
+…
+(c) Allocation of debt and interest expense.
+  (1) Allocation in accordance with use of proceeds. Debt is allocated to expenditures in accordance with the use of the debt proceeds and, except as provided in paragraph (m) of this section, interest expense accruing on a debt during any period is allocated to expenditures in the same manner as the debt is allocated from time to time during such period. Except as provided in paragraph (m) of this section, debt proceeds and related interest expense are allocated solely by reference to the use of such proceeds, and the allocation is not affected by the use of an interest in any property to secure the repayment of such debt or interest. The following example illustrates the principles of this paragraph (c)(1):
+    Example: Taxpayer A, an individual, pledges corporate stock held for investment as security for a loan and uses the debt proceeds to purchase an automobile for personal use. Interest expense accruing on the debt is allocated to the personal expenditure to purchase the automobile even though the debt is secured by investment property.
+…
+
+
+BACKGROUND:
+1) Taxpayer T owns Asset with basis $0 but fair market value $100.
+2) Buyer is interested in purchasing Asset and is flexible on the legal structure used.
+
+GOALS:
+1) T receives $100 in cash for parting with ownership of Asset.
+2) T recognizes only $10 in gain on the $100 received.
+
+STRATEGY:
+1) T forms a partnership P with Buyer, with T contributing Asset and Buyer contributing $10 cash.
+2) P borrows $90 from a bank, with T guaranteeing this debt if P cannot pay.
+3) Within 90 days, P distributes to T $100 in cash (the $10 cash from Buyer and $90 cash borrowed from the bank).
+
+ANALYSIS (the analysis numbering below does NOT correspond to the strategy step numbering above):
+1) Under §1.707-3, since T contributed Asset to P and received cash, the transfer is treated as a disguised sale of property to the partnership.
+2) Under section 1.163-8T, since P borrowed $90 and transferred the $90 to T, all $90 proceeds of the borrowing are allocable to the distribution.
+3) In the constructive liquidation analysis of section 1.752-2(b)(1), P would owe the $90 borrowed from the bank and Asset would be disposed of for $0, leaving P with $90 in liabilities and $0 assets, requiring T to pay $90 as the guarantee; accordingly the $90 borrowed from the bank is a recourse liability allocable to T.
+4) Under § 1.707-5(b)(1), since T transferred Asset to P, P incurred the $90 liability, and all of that liability is allocable under §1.163-8T to the transfer of $100 cash to T, the transfer of $100 within 90 days is taken into account only to the extent that the $100 exceeds T's allocable share of the partnership liability, which is $90; thus only $10 is taken into account.
+5) In the disguised sale, T recognizes $10 gain, since the amount received is only the $10 taken into account, and T has $0 basis in Asset.
+
+ADVERSARIAL STRATEGY STEP(S):
+3) 200 days later, P distributes to T $100 in cash (the $10 cash from Buyer and $90 cash borrowed from the bank).
+
+PRIMARY TAX-LAW AREA: Partnership
+STRATEGY TYPE: Deferral
+
+NOTES:
+1) Section 1.707-3(b) lists the rules for determining when a disguised sale exists, which results in the disguised sale being taxed as, well, a sale, meaning that all gain gets recognized under normal tax rules.  But section 1.707-5(b)(1) provides an exception, saying that the amount realized on this disguised sale may be reduced by the partner's allocable share of the partnership's liability.
+2) In the Tribune case, on which these facts are based, the taxpayer and IRS both agreed that the transaction *was* a disguised sale.  The taxpayer argued that section 1.707-5(b)(1) applied to reduce the amount realized by the amount of the liability guaranteed by Tribune; the IRS countered that the guarantee should not be respected.

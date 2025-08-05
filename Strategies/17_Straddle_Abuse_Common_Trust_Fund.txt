@@ -1,0 +1,79 @@
+Common Trust Fund Straddle Abuse (Notice 2003-54)
+
+AUTHORITY 1: Economic background
+A straddle consists of two derivative positions that largely or completely offset each other economically.  One (called the “loss leg”) ends up generating a loss and the other (called the “gain leg”) ends up generating a gain.
+
+AUTHORITY 2: §584
+§ 584 Common trust funds.
+(a) Definitions.
+For purposes of this subtitle, the term “common trust fund” means a fund maintained by a bank—
+  (1) exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity—
+    (A) as a trustee, executor, administrator, or guardian …
+…
+(b) Taxation of common trust funds.
+A common trust fund shall not be subject to taxation under this chapter and for purposes of this chapter shall not be considered a corporation.
+(c) Income of participants in fund.
+Each participant in the common trust fund in computing its taxable income shall include, whether or not distributed and whether or not distributable—
+  (1) as part of its gains and losses from sales or exchanges of capital assets held for not more than 1 year, its proportionate share of the gains and losses of the common trust fund from sales or exchanges of capital assets held for not more than 1 year,
+  (2) as part of its gains and losses from sales or exchanges of capital assets held for more than 1 year, its proportionate share of the gains and losses of the common trust fund from sales or exchanges of capital assets held for more than 1 year, and
+  (3) its proportionate share of the ordinary taxable income or the ordinary net loss of the common trust fund, computed as provided in subsection (d).
+…
+(d) Computation of common trust fund income.
+The taxable income of a common trust fund shall be computed in the same manner and on the same basis as in the case of an individual, except that—
+  (1) there shall be segregated the gains and losses from sales or exchanges of capital assets;
+  (2) after excluding all items of gain and loss from sales or exchanges of capital assets, there shall be computed—
+    (A) an ordinary taxable income which shall consist of the excess of the gross income over deductions; or
+    (B) an ordinary net loss which shall consist of the excess of the deductions over the gross income;
+…
+
+AUTHORITY 3: Legal Point
+Implicit in the word "common" in "common trust fund" is that there be at least two participants in a common trust fund at any time.  This is reinforced by the wording "Income of participants" in section 584(c), indicating that there must be more than one participant.
+
+AUTHORITY 4: Treas. Reg. § 1.584-2
+§ 1.584-2. Income of participants in common trust fund.
+(c)…(2) Items of income and deductions shall be allocated to the periods between valuation dates established by the plan within the taxable year in which they were realized. Ordinary taxable income or ordinary net loss, short-term capital gains and losses, long-term capital gains and losses, and tax withheld at the source shall be computed for each period. The participants' proportionate shares of income and losses for each period shall then be determined.
+…
+
+AUTHORITY 5: §1092
+§ 1092 Straddles.
+(a) Recognition of loss in case of straddles, etc.
+  (1) Limitation on recognition of loss.
+    (A) In general. Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
+…
+  (3) Unrecognized gain.
+  For purposes of this subsection —
+    (A) In general. The term “unrecognized gain” means—
+      (i) in the case of any position held by the taxpayer as of the close of the taxable year, the amount of gain which would be taken into account with respect to such position if such position were sold on the last business day of such taxable year at its fair market value…
+…
+
+BACKGROUND:
+1) There are a Bank and two tax-indifferent parties A and B that are not related to T and are willing to facilitate this transaction.
+
+GOALS:
+1) Taxpayer T would like a $100 deductible loss with no offsetting economic loss.
+
+STRATEGY:
+1) Bank forms a common trust fund (the CTF) with A and B each investing $100 cash.
+2) CTF enters into a straddle.
+3) Wait until one leg of the straddle has a $300 loss (the loss leg) and the other leg has a $300 gain (the gain leg).
+4) CTF recognizes the gain leg of the straddle, recognizing $300 in gain.
+5) At the time of the CTF's next valuation date, T invests $100 in cash in CTF.
+6) The CTF recognizes the loss leg of the straddle, recognizing $300 in loss.
+
+ANALYSIS (the analysis numbering below does NOT correspond to the strategy step numbering above):
+1) When CTF recognizes the gain leg of the straddle, under section 584(c), A and B each recognize a proportional amount of the gain, so each recognizes $150 in gain, but they are tax-indifferent.
+2) T recognizes none of the gain from the gain leg under § 1.584-2 because it was not a participant in between the valuation dates when the gain was recognized.
+3) When CTF recognizes the loss leg of the straddle, under section 584(c), A, B, and T each recognize $100 in loss.
+4) T has suffered no economic loss, since it originally contributed $100 cash to CTF and continues to have $100 in CTF.
+5) Section 1092 does not apply to disallow any of the tax loss, since the gain on the gain leg is recognized before the loss on the loss leg is recognized; when the loss on the loss leg is recognized, there is no longer any unrecognized gain on the gain leg.
+
+ADVERSARIAL STRATEGY STEP(S):
+4) B invests an additional $300 in CTF.
+
+PRIMARY TAX-LAW AREA: Income Tax
+STRATEGY TYPE: Arbitrage Between Taxpayers
+
+NOTES:
+1) This is clever way around §1092, which applies to straddles and bars recognizing loss before recognizing gain.  Here, the gain is recognized first.
+2) The key to this is that a loss is recognized and results in lower basis in the stock, freezing the offset until the taxpayer decides to recognize the loss.
+

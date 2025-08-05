@@ -1,0 +1,13 @@
+**Now you must grade, as either 0, 1, 2, or 3, the student answer that appears above.**
+
+Here is the rubric to use:
+
+3 - The strategy is legally viable (at least if ignoring the application of tax-law judicial doctrines like substance-over-form, the sham-transaction doctrine, and economic substance).  The strategy uses all the authorities given, although the use can be implicit for some of the authorities.  The strategy meets the goals.  The strategy is realistic from an economic or commercial perspective, with no participant doing something that leaves them clearly worse off.
+
+2 - Use if the strategy either is a minor modification away from working or ignores some subtle legal, economic, or commercial problem.
+
+1 - Use if the strategy would require substantial modifications to work, or if the strategy would have been a 2 except that it makes no use (not even implicit use) of one or more of the authorities given.
+
+0 - The strategy is not close to working.
+
+In your answer, give a one-paragraph explanation of your grading, but **always, always** end your answer with either 3, 2, 1, or 0.

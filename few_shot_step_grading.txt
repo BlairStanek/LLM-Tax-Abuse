@@ -1,0 +1,81 @@
+You will be grading how semantically similar a generated tax-strategy step (labelled "ANSWER TO GRADE") is to a correct tax-strategy step (labelled "CORRECT ANSWER").  The grading is on a scale from 0 to 3, with a higher number meaning more similar.  Compare similarity based on the substance of the action, not its phrasing.  Here is the grading scale:
+
+3 - The answer to grade describes the same action or actions as the correct answer.  If the answer to grade describes the same action or actions as the correct answer, but adds a bunch of what appears to be legal analysis (not describing actions), it still qualifies as a 3.
+2 - The answer to grade roughly describes the same action or actions as the correct answer, but with some important detail left out of the answer to grade OR with some minor, unnecessary actions added to the answer to grade.
+1 - The answer to grade bears only some similarities to the correct answer. This includes leaving out an entire action.
+0 - The answer to grade bears no resemblance to the correct answer.
+
+Here are some examples:
+
+CORRECT ANSWER: T is given shares in the corporation with total voting power over 50%.
+ANSWER TO GRADE: Taxpayer T receives corporate stock giving T majority voting rights, making T qualify under the provisions of §8.
+ANALYSIS: In both, the same action is described, although the phrasing is different and the ANSWER TO GRADE adds some legal analysis. Note that "total voting power over 50%" means the same thing as "majority voting rights".
+GRADE: 3
+
+CORRECT ANSWER: X buys $20 worth of Y stock for cash.
+ANSWER TO GRADE: X purchases $20 of the stock of Y.
+ANALYSIS: Both describe the same action, with different phrasing.  Note that it is implicit that purchasing anything means purchasing it for cash.
+GRADE: 3
+
+CORRECT ANSWER: X redeems all $100 worth of T's stock in X.
+ANSWER TO GRADE: X redeems the X stock held by T for $100.
+ANALYSIS: Both describe the same action.  Note that it is implicit that a redemption of $100 worth of stock is for $100.
+GRADE: 3
+
+CORRECT ANSWER: A sells all the stock of X to an unrelated third party for $100 in cash.
+ANSWER TO GRADE: A sells all the X stock to the third party for $100 cash.
+ANALYSIS: Both describe the exact same action.
+GRADE: 3
+
+CORRECT ANSWER: T transfers the Asset to C, which also assumes the mortgage on the Asset.
+ANSWER TO GRADE: C receives the Asset, valued at $100, from T.
+ANALYSIS: Both describe the action of the Asset going from T to C, but the ANSWER TO GRADE leaves out C's assumption of the mortgage on that Asset.
+GRADE: 2
+
+CORRECT ANSWER: T transfers the Asset to C, which also assumes the mortgage on the Asset.
+ANSWER TO GRADE: C gets the Asset from T and assumes the mortgage on the Asset, plus T's related business debts.
+ANALYSIS: Both describe the same action, but ANSWER TO GRADE has C assume other debts as well.
+GRADE: 2
+
+CORRECT ANSWER: T contributes the Property to X.
+ANSWER TO GRADE: T transfers the Property to X in exchange for stock in X.
+ANALYSIS: Both describe property going from T to X, but ANSWER TO GRADE adds the additional action of T getting stock in X.
+GRADE: 2
+
+CORRECT ANSWER: X transfers stock in C worth $20 to Y.
+ANSWER TO GRADE: X gives $20 cash to Y.
+ANALYSIS: Stock in C and cash are different assets, but in both there is $20 worth of value going from X to Y.
+GRADE: 1
+
+CORRECT ANSWER: Y transfers the property to FSub, which, in exchange, promises to repay Y the property's fair market value in five annual installments.
+ANSWER TO GRADE: Y transfers the property to FSub.
+ANALYSIS: Although both answers have the same first action, ANSWER TO GRADE entirely omits the second action (promising to repay the property's value), which is a major part of the transaction in the CORRECT ANSWER.
+GRADE: 1
+
+CORRECT ANSWER: T gives $200 to X, in exchange for all X's preferred stock.
+ANSWER TO GRADE: X issues preferred stock to T for nominal consideration, granting T a $200 liquidation preference.
+ANALYSIS: Although both answers involve T getting preferred stock from X, the CORRECT ANSWER has T paying real value for it, whereas the ANSWER TO GRADE has T only pay nominal consideration. This is a substantial difference.
+GRADE: 1
+
+CORRECT ANSWER: T sells its stock in X corporation to an unrelated third party for $100, its fair market value.
+ANSWER TO GRADE: Before X recognizes its gain on the Asset, T transfers enough of its X stock to reduce T's ownership to 50%.
+ANALYSIS: Although both answers involve T transferring some of T's X stock, the CORRECT ANSWER has T transferring all of it, whereas the ANSWER TO GRADE has T transferring only a fraction of it.  This is a substantial difference.
+GRADE: 1
+
+CORRECT ANSWER: SCorp buys $100 worth of X stock on the stock market.
+ANSWER TO GRADE: SCorp forms a subsidiary Q.
+ANALYSIS: These are totally different transactions.
+GRADE: 0
+
+CORRECT ANSWER: S buys call options on $200 of X stock at a strike price that makes exercise unlikely.
+ANSWER TO GRADE: S increases his basis in his X stock by $50 due to the redemption.
+ANALYSIS: Although both mention S and both mention X stock, the actions described are totally different: buying call options, as opposed to increasing basis in some stock.
+GRADE: 0
+
+CORRECT ANSWER: S buys $20 of X stock, using a portion of the $50 in cash, where $20 is the present value of $50 due in N years.
+ANSWER TO GRADE: S agrees to indemnify Y for the $50 repayment obligation due in N years.
+ANALYSIS: Although both mention S, both mention $50, and both mention N years, the actions described are totally different: buying stock versus indemnifying someone's repayment.
+GRADE: 0
+
+Here is the pair to analyze and grade:
+
