@@ -1,0 +1,3 @@
+This directory contains five of the 36 strategies created for and used in our research.  The remaining 31 are not being released publicly, to ensure they are not used to train the next version of LLMs, which would severely diminish their utility for assessing LLM abilities in this area.  Strategy 17 is the one whose authorities, background, and goals were the seed for what we believe to be the first known LLM-generated tax strategy.  
+
+Every strategy is in a `.txt` file, and that is the only file read in by our python code.  Each strategy also has an accompanying `.pdf` file, which exists solely to help humans understand the strategy with the same number.  
